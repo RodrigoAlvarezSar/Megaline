@@ -21,5 +21,10 @@ Herramientas y Librerías:
 Pyhon Pandas
 Pyhon Matplotlib
 Python Numpy
+Python Scipy
+Python Seaborn
+
+<img width="695" height="578" alt="image" src="https://github.com/user-attachments/assets/3062d5c5-0f97-49c1-aa42-3d6b69aabe30" />
+
 Pyhon Scipy
 Python Seaborn
